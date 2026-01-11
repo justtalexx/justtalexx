@@ -6,7 +6,7 @@
 
   <p>
     I am a senior <b>Computer Science</b> student at the <b>University of Houston</b> with a minor in <b>Mathematics</b>. <br>
-    As a first-generation immigrant, I have a relentless drive to build scalable infrastructure and efficient software solutions.
+    I truly enjoy building scalable infrastructure and efficient software solutions.
   </p>
 
   <a href="https://alexis-portfolio-beryl.vercel.app/"><strong>➥ VISIT MY PORTFOLIO WEBSITE</strong></a>
