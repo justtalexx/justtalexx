@@ -5,21 +5,19 @@
   <h3>Cloud Engineer | Full Stack Developer | DevOps Enthusiast</h3>
 
   <p>
-    [cite_start]I am a senior <b>Computer Science</b> student at the <b>University of Houston</b> with a minor in <b>Mathematics</b>[cite: 4]. <br>
+    I am a senior <b>Computer Science</b> student at the <b>University of Houston</b> with a minor in <b>Mathematics</b>. <br>
     As a first-generation immigrant, I have a relentless drive to build scalable infrastructure and efficient software solutions.
   </p>
 
-  <a href="https://your-portfolio-url.vercel.app"><strong>➥ VISIT MY PORTFOLIO WEBSITE</strong></a>
+  <a href="https://alexis-portfolio-beryl.vercel.app/"><strong>➥ VISIT MY PORTFOLIO WEBSITE</strong></a>
 
 </div>
 
 ---
 
 ### 🚀 Experience
-* [cite_start]☁️ **Cloud Engineering Intern** @ [Amazon Web Services (AWS)](https://aws.amazon.com) [cite: 6]
-* [cite_start]🐾 **Director of Operations** @ [CougarCS](https://cougarcs.com) [cite: 12]
-* [cite_start]🎓 **OS Workshop Director** @ University of Houston [cite: 18]
-
+* ☁️ **Cloud Engineering Intern** @ [Amazon Web Services (AWS)](https://aws.amazon.com)
+* 🐾 **Director of Operations** @ [CougarCS](https://cougarcs.com) 
 ---
 
 ### 🛠️ Tech Stack
@@ -37,14 +35,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justtalexx&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Alexis' Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtalexx&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Alexis' Top Languages" />
-</div>
 
 ---
 
